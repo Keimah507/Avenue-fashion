@@ -9,10 +9,6 @@
 **Recommended PHP Version 5.6 and Newer**
 
 
-**Admin Panel: /admin_area **
-
-**Admin Login Details**
-
 Avenue Fashion is an online clothes store that focuses on selling outfits to its customer base. Customers can create account, check out products, add them to their carts, and checkout.
 Below are some snips showing the website's functonality
 
@@ -33,8 +29,9 @@ Admin's website:
 ![veiw products](https://user-images.githubusercontent.com/74242600/160581299-d680128a-ebdd-48a8-8588-3c84717accd8.PNG)
 
 
+**Admin Panel: /admin_area **
 
-
+**Admin Login Details**
 
 
 Username: lazarusmutuku4760@gmail.com
